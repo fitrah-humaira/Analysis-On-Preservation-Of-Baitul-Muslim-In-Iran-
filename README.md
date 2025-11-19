@@ -55,3 +55,10 @@ The Winner? 🏆 The Linear Kernel performed the best. It turns out the relation
 - Farah Irdina Binti Ahmad Zulkiflee
 - Puteri Adlin Batrisyia Binti Amiruddin
 - Puteri Nur Sabrina Binti Mohd Azlee
+
+
+***📝 Author***
+
+***Fitrah Nur Humaira***
+
+***This project is for educational purposes.***
